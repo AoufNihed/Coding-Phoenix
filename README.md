@@ -42,9 +42,5 @@ Through these projects, you’ll gain experience in:
    ```bash
    pip install pandas numpy matplotlib scikit-learn
 git clone [(https://github.com/AoufNihed/Coding-Phoenix.git)]
-cd coding-weekend-projects
-pip install pandas numpy matplotlib scikit-learn
-
---- 
 
 This `README.md` should provide a clear, structured introduction and guide for participants, making it easy for them to get started on each project. Let me know if you'd like any additional customization!
