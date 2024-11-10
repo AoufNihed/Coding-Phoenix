@@ -41,7 +41,7 @@ Through these projects, you’ll gain experience in:
 2. **Libraries**: You’ll need to install the following libraries:
    ```bash
    pip install pandas numpy matplotlib scikit-learn
-git clone [https://github.com/your-repo-url](https://github.com/AoufNihed/Coding-Phoenix.git)
+git clone [(https://github.com/AoufNihed/Coding-Phoenix.git)]
 cd coding-weekend-projects
 pip install pandas numpy matplotlib scikit-learn
 
